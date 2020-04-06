@@ -1,0 +1,14 @@
+.error-container {
+  padding: 2%;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  width: 65%;
+  top: 52px;
+  background-color: black;
+  font-size: 40px;
+}
+
+.error-label {
+  color: red;
+}
